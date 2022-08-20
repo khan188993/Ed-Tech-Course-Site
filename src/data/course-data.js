@@ -1,7 +1,7 @@
 const courses = [
    {
       id: 'course-1',
-      title: 'Course title 1',
+      title: 'React Js - All You Need To Know',
       description: 'Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat',
       image: '/images/courses/course-1.png',
       category: 'programming',
@@ -9,7 +9,7 @@ const courses = [
    },
    {
       id: 'course-2',
-      title: 'Course title 2',
+      title: 'Basic Computer Skill',
       description: 'Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat',
       image: '/images/courses/course-2.png',
       category: 'programming',
@@ -17,7 +17,7 @@ const courses = [
    },
    {
       id: 'course-3',
-      title: 'Course title 3',
+      title: 'Mastering Javascript',
       description: 'Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat',
       image: '/images/courses/course-3.png',
       category: 'programming',
@@ -32,7 +32,7 @@ const courses = [
       price: '100$',
    },
    {
-      id: 'course-5',
+      id: 'Javascript - All in one',
       title: 'Course title 3',
       description: 'Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat',
       image: '/images/courses/course-3.png',
@@ -41,7 +41,7 @@ const courses = [
    },
    {
       id: 'course-6',
-      title: 'Course title 1',
+      title: 'Mastering ReactJs',
       description: 'Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat',
       image: '/images/courses/course-1.png',
       category: 'programming',

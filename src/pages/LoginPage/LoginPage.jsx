@@ -143,8 +143,8 @@ const LoginPage = () => {
             </div>
 
             {/* <!-- Login banner --> */}
-            <div className="flex flex-wrap content-center justify-center rounded-r-md" style={{ width: '24rem', height: '32rem' }}>
-               <img className="w-full h-full bg-center bg-no-repeat bg-cover rounded-r-md" src="https://i.imgur.com/9l1A4OS.jpeg" />
+            <div className="flex flex-wrap content-center justify-center rounded-r-md" style={{ width: '34rem', height: '32rem' }}>
+               <img className="w-full h-full bg-center bg-no-repeat bg-cover rounded-r-md" src="./images/register.png" />
             </div>
          </div>
       </div>
